@@ -17,3 +17,14 @@ Celem ćwiczenia jest:
 
 
  [TIER Protocol](https://www.projecttier.org/tier-protocol/tier-protocol-version-history/specifications-3-0/#overview-of-the-documentation)
+
+
+## Ćwiczenie
+
+Analiza i Bazy Danych - Lab 6
+Maciej Wieloch, 303080, gr. 1a
+Zestaw danych:
+
+(13 % 16 = 13)
+
+13_WARMINSKO-MAZURSKIE.csv - Dane to wyniki oceny odkurzaczy w jednej z sieci sklepów z danego województwa oraz dane kupujących.
